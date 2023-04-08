@@ -1,1 +1,1 @@
-# event-scheduler-site
+# education-event-scheduler-site
